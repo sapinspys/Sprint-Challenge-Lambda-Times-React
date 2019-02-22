@@ -6,7 +6,7 @@ import styled from 'styled-components'
 
 const App = () => {
   return (
-    <AppContainer className="App">
+    <AppContainer>
       <TopBar />
       <Header />
       <Content />
