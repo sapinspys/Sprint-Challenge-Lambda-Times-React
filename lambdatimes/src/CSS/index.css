@@ -213,7 +213,7 @@ body {
   color: #333;
   border: 2px solid #333;
 } */
-.cards-container {
+/* .cards-container {
   display: flex;
   justify-content: space-evenly;
   align-items: none;
@@ -226,8 +226,8 @@ body {
   .cards-container {
     width: 1200px;
   }
-}
-.cards-container .card {
+} */
+/* .cards-container .card {
   border-bottom: 1px solid lightgrey;
   display: flex;
   justify-content: space-between;
@@ -262,7 +262,7 @@ body {
   font-size: 12px;
   letter-spacing: 1px;
   font-weight: bold;
-}
+} */
 .carousel {
   width: 100%;
   display: flex;
